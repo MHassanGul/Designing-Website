@@ -265,14 +265,6 @@ body{
     text-decoration: none;
     color: white;
 }
-.icons{
-    height: 10vh;
-}
-.icons a img{
-    margin-left: 20px;
-    width: 3%;
-    height: 50%;
-}
 
 
 @media screen and (max-width: 767px) {
