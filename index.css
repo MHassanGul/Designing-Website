@@ -88,10 +88,14 @@ body{
     height: 140vh;
 }
 .design_solution_heading{
-    padding: 5vw 20vw;
+    padding: 50px 100px;
 }
 .design_solution_heading h1{
-    padding: 1vw 6vw;
+    text-align: center;
+    padding: 20px 40px;
+}
+.design_solution_heading p{
+    text-align: center;
 }
 .design_solution_containers{
     display: flex;
