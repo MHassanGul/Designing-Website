@@ -246,10 +246,11 @@ body{
 
 .footer{
     background-color: #111111;
-    height: 90vh;
+    height: 150vh;
 }
 .footer_containers{
     display: flex;
+    flex-wrap: wrap;
     height: 70vh;
     justify-content: space-around;
 }
